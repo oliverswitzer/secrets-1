@@ -35,3 +35,4 @@ step5 = step4.gsub("ev", "*")
 step6 = step5.center(69, '1r7udsy5klsd')
 #1r7udsy5klsydobyr*ezxqjknozxqjkhsurczxqjkazxqjk*ahzxqjki1r7udsy5klsd
 puts step6
+
